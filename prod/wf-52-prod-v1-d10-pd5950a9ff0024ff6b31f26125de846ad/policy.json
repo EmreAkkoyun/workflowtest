@@ -1,0 +1,1 @@
+{"default_effect":"deny","model_allow_list":["claude-haiku-4-5-20251001"],"target_env":"prod","tool_rules":{}}
